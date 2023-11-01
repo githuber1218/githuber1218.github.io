@@ -1,6 +1,6 @@
 ---
 permalink: /
-//title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+//title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+I am a Master's student in RWTH-Aachen in Erneubare Energieversorgung. I am interested in MPC Control and Optimal Control.
+
+Previously I received my Bachelor's Degree in Automation from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022. My undergraduate research focused on gesture recognition and its application on Human-robot interaction. 
+
+After my graduation I entered the [Fast Lab](http://zju-fast.com/) as Research assisitant in Field Intelligent Robotics Engineering Group advised by [PhD.Yanjun Cao](http://zju-fast.com/research-group/yanjun-cao/). I designed MPC control algrithm for Yunjing robot and tested the extreme performance of [CubeTrack](https://fast-fire.github.io/CubeTrack/). This experience benefits me a lot.
+
+I enjoys jogging in my free time and I am preparing for the Berlin Marathon.
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
