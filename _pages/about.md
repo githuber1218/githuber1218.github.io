@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am a Master's student in RWTH-Aachen in Erneubare Energieversorgung. I am interested in MPC Control and Optimal Control.
 
 Previously I received my Bachelor's Degree in Automation from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022. My undergraduate research focused on gesture recognition and its application on Human-robot interaction. 
