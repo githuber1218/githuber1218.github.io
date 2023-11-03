@@ -12,10 +12,10 @@ redirect_from:
 * B.S. in Automation, Zhejiang University, 2022
 
 ## Research Experience
-* Graduate Research Assistant, [Fast Lab]((http://zju-fast.com/), 07/2022-09/2022
+* Graduate Research Assistant, [Fast Lab](http://zju-fast.com/), 07/2022-09/2022
   
 ## Skills
 * Programming: Python, MATLAB, C++
 * Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home)
-* On-device ML: [MediaPipe]([https://juliahub.com/ui/Packages/MeshCat/CZdjb/0.14.2](https://developers.google.com/mediapipe), Google for Developers
+* On-device ML: [MediaPipe](https://developers.google.com/mediapipe), Google for Developers
 
