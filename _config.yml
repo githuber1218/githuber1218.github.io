@@ -86,7 +86,7 @@ author:
   location         : "Aachen NRW"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "weiheng.wang@rwth-aachen.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
