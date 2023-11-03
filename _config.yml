@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Weiheng Wang"
 title_separator          : "-"
 name                     : &name "Weiheng Wang"
-description              : &description "personal description"
+description              : &description "M.S. Student in RWTH-Aachen"
 url                      : https://githuber1218.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "githuber1218/githuber1218.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
