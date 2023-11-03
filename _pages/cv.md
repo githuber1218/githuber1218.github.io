@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
+;{% include base_path %}
 
-#Full version of my [CV](/docs/John_Zhang_CV.pdf). 
+;Full version of my [CV](/docs/John_Zhang_CV.pdf). 
 
 ## Education
 * M.S. in Erneubare Energieversorgung, RWTH-Aachen, 2025 (Expected)
