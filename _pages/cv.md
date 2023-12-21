@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "[CV]{https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/英文简历.pdf}"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -19,6 +19,4 @@ redirect_from:
 * Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home)
 * On-device ML: [MediaPipe](https://developers.google.com/mediapipe), Google for Developers
 
-## CV
-<iframe src="https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/英文简历.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
 
