@@ -19,4 +19,4 @@ redirect_from:
 * Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home)
 * On-device ML: [MediaPipe](https://developers.google.com/mediapipe), Google for Developers
 
-## [Links]({https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/英文简历.pdf})
+## [Links](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/英文简历.pdf)
