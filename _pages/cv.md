@@ -20,5 +20,5 @@ redirect_from:
 * On-device ML: [MediaPipe](https://developers.google.com/mediapipe), Google for Developers
 
 ## CV
-<embed src="https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86.pdf" width=100% height=1000px></embed>
+<iframe src="https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/英文简历.pdf" style="width:800px; height:500px;" frameborder="0"></iframe>
 
