@@ -19,3 +19,6 @@ redirect_from:
 * Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home)
 * On-device ML: [MediaPipe](https://developers.google.com/mediapipe), Google for Developers
 
+## CV
+<embed src="https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/%E8%8B%B1%E6%96%87%E7%AE%80%E5%8E%86.pdf" width=100% height=1000px></embed>
+
