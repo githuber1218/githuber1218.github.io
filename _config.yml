@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Weiheng Wang"
 title_separator          : "-"
 name                     : &name "Weiheng Wang"
-description              : &description "M.S. Student in RWTH-Aachen"
+description              : &description "M.S. Student in KIT"
 url                      : https://githuber1218.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "githuber1218/githuber1218.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Weiheng Wang"
   avatar           : "大头形象照.jpg"
-  bio              : "RWTH-Aachen"
-  location         : "Aachen NRW"
+  bio              : "KIT"
+  location         : "Karlsruhe"
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "weiheng.wang@rwth-aachen.de"
+  email            : "utkps@student.kit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
