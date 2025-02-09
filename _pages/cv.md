@@ -19,5 +19,5 @@ redirect_from:
 * Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home), [ArmarX](https://armarx.humanoids.kit.edu/)
 * On-device ML: [MediaPipe](https://developers.google.com/mediapipe), Google for Developers
 
-## [CV_zh](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_zh.pdf)
-## [CV_en](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_en.pdf)
+## [CV_zh](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_zh_Feb25.pdf)
+## [CV_en](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_EN_Feb25.pdf)
