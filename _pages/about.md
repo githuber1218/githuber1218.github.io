@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in KIT Mechatronik und Informationstechnik. I am interested in MPC Control and Humanoid Robots.
+I am a Master's student in KIT Mechatronik und Informationstechnik. My current research interest is VLA-based manipulation and diffusion policy.
 
 Previously I received my Bachelor's Degree in Automation from [Zhejiang University](https://www.zju.edu.cn/english/) in 2022. My undergraduate research focused on gesture recognition and its application on Human-robot interaction. 
 
