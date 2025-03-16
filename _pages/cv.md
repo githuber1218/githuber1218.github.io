@@ -14,10 +14,8 @@ redirect_from:
 ## Research Experience
 * Graduate Research Assistant, [Fast Lab](http://zju-fast.com/), 07/2022-09/2022
   
-## Skills
-* Programming: Python, MATLAB, C++
-* Simulation: [ROS](http://wiki.ros.org/), [Gazebo](https://gazebosim.org/home), [ArmarX](https://armarx.humanoids.kit.edu/)
-* On-device ML: [MediaPipe](https://developers.google.com/mediapipe), Google for Developers
+## Recent Works
+* Lecture Review: Alignment of Modalities in Foundation Models [[Slides](https://github.com/githuber1218/githuber1218.github.io/blob/master/files/MM_alignment_final.pdf)]
 
 ## [CV_zh](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_zh_Feb25.pdf)
 ## [CV_en](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_EN_Feb25.pdf)
