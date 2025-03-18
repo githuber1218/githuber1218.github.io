@@ -16,6 +16,7 @@ redirect_from:
   
 ## Recent Works
 * Literature Review: Alignment of Modalities in Foundation Models [[Slides](https://github.com/githuber1218/githuber1218.github.io/blob/master/files/MM_alignment_final.pdf)]
+* Experiment Replication: Sim2Real Transfer Contact-Rich Assembly Tasks with Point Clouds [[Slides](https://github.com/githuber1218/githuber1218.github.io/blob/master/files/ALR%20Praktikum_final.pdf)]
 
 ## [CV_zh](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_zh_Feb25.pdf)
 ## [CV_en](https://github.com/githuber1218/githuber1218.github.io/blob/master/_pages/CV_EN_Feb25.pdf)
